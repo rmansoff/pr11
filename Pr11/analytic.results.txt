@@ -1,0 +1,5 @@
+Log counts: {}
+Success counts per user: {}
+Total success logs: 0
+Total logs: 0
+Success rate: NaN%
